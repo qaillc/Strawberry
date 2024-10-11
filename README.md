@@ -1,5 +1,9 @@
 # Strawberry
 
+This was my first "total design" project with ChatGPT Strawberry, I just told it what I wanted and it created a new way of learning. I laughed out loud the first time I used the system. AI has given me wings! Bless the Lord!
+
+Enjoy - https://www.youtube.com/watch?v=FxVwpg99dTc
+
 ASPIR Strawberry FinStart is the first interactive case study of its kind, designed to enhance both learning and engagement by tracking course progress through a cutting-edge vector database. Created by Strawberry, this innovative case study simulates the journey of the startup FinStart as it grows and adopts new materials. Participants experience the dynamic challenges of scaling a business while engaging in real-time, personalized dialogue that reflects the startup's evolving persona.
 
 FinStart provides real-world examples, with the course adapting to the business’s needs and actions as new concepts are introduced. The interactive dialogue keeps the learning fresh, allowing users to receive instant company feedback and explore strategies in real-time. This model offers multiple business advantages, including:
